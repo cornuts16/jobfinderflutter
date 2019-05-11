@@ -1,6 +1,7 @@
-# toiletfinderflutter
+# JobFinder Flutter
 
 A new Flutter project.
+Job finder social network.
 
 ## Getting Started
 
